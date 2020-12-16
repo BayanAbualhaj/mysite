@@ -1,20 +1,26 @@
+
 h1 {
     color: green;
-}
-head p {
-    color: rgb(80, 165, 80);
-}
-head {
-    background-color: rgba(240, 239, 239, 0.918);
+    font-family: 'Brush Script MT', cursive;
 }
 *{
-    color: darkgreen
-}
+    color: green;
+    font-family: 'Brush Script MT', cursive;
+   }
+
 body{
-    background-color: rgba(240, 239, 239, 0.918);
+    background-image: url("https://images.creativemarket.com/0.1.0/ps/6463322/910/603/m2/fpnw/wm0/screenshot_2-.png?1559133476&s=53aacae4e16d5c156701871e93e0a30a");
+
 }
-nav ol li{background-color: lightgreen;}
-header article{background-color: lightgreen;}
-main ul li{background-color: lightgreen;}
-footer{background-color: lightslategrey;}
+nav ol li{
+    display: inline-block;
+    background-color: rgb(184, 236, 204);
+}
+
+footer h5 {
+    background-color: gray;
+}
+main ul li{
+    list-style: lower-roman;
+}
 

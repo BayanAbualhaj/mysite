@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+}
+head p {
+    color: rgb(80, 165, 80);
+}
+head {
+    background-color: rgba(240, 239, 239, 0.918);
+}
+*{
+    color: darkgreen
+}
+body{
+    background-color: rgba(240, 239, 239, 0.918);
+}
+nav ol li{background-color: lightgreen;}
+header article{background-color: lightgreen;}
+main ul li{background-color: lightgreen;}
+footer{background-color: lightslategrey;}

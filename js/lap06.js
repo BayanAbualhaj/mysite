@@ -31,3 +31,6 @@ if (no){
     alert ("lets get learning")
 }
 
+var food = prompt("what is you favorite food?");
+alert(food + " YummY! Delesious");
+alert("Check My Delesious  " + food);

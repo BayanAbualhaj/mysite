@@ -1,33 +1,16 @@
-var number =16;
-var month="December";
-var OK=true;
-var NO=false; 
+var food = prompt("what is you favorite food?");
+alert(food + " YummY! Delesious");
+alert("Check My Delesious  " + food);
 
-// its about my birthday! 
+var numOne= prompt("Enter Your weight:  ");
+var numTow = prompt("Enter Your height");
+alert("You Are Perfect! Give Love to Your-Self ");
 
-if (number == 11){
-    alert("IT MY LUCKY DAY!");
-} else {
-    alert("Today Is Your Lucky Day!");
-}
 
-if (number < 11){
-    alert ("Almost Here!");
-} else {
-    alert ("Is it your birthday?check the cake section!");
-}
 
-if (month == october) {
-    alert ('MY MONTH');
-} else {
-    alert("Every month is a new adveture and every day is a new challenge");
-}
+   
 
-if (OK){
-    alert("Lets get started")
-}
 
-if (no){
-    alert ("lets get learning")
-}
+
+
 

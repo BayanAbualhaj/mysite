@@ -1,0 +1,26 @@
+
+h1 {
+    color: green;
+    font-family: 'Brush Script MT', cursive;
+}
+*{
+    color: green;
+    font-family: 'Brush Script MT', cursive;
+   }
+
+body{
+    background-image: url("https://images.creativemarket.com/0.1.0/ps/6463322/910/603/m2/fpnw/wm0/screenshot_2-.png?1559133476&s=53aacae4e16d5c156701871e93e0a30a");
+
+}
+nav ol li{
+    display: inline-block;
+    background-color: rgb(184, 236, 204);
+}
+
+footer h5 {
+    background-color: gray;
+}
+main ul li{
+    list-style: lower-roman;
+}
+

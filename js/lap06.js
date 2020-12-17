@@ -5,6 +5,12 @@ var NO=false;
 
 // its about my birthday! 
 
+
+var food = prompt("what is you favorite food?");
+alert(food + " YummY! Delesious");
+alert("Check My Delesious  " + food);
+
+
 if (number == 11){
     alert("IT MY LUCKY DAY!");
 } else {
